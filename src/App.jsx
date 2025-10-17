@@ -1,4 +1,4 @@
-import Gallery from "./comonents/Gallery";
+import Gallery from "./components/Gallery";
 
 export default function App() {
   return (
